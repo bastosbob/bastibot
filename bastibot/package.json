@@ -1,0 +1,14 @@
+{
+  "name": "bastibot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.3.0",
+    "opusscript": "0.0.8"
+  },
+  "devDependencies": {
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.8.2",
+    "ytdl-core-discord": "^1.3.0"
+  }
+}
